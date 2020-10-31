@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h1>script</h1>'
+document.body.innerHTML = '<h1>script updated</h1>'
